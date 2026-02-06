@@ -1,1 +1,1 @@
-
+I am an AI/ML product manager who also works on the intersection of product and data science. I enjoy building side projects with various flagship LLMs and am currently working on iD8 which provides state of the art memory/context management and multi-agent orchestration as a VS code extension, mobile app, and web app. 
