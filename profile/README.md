@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/AIMLPM/.github/tree/main/radar">
+  <a href="https://unlock-radar-five.vercel.app/AIMLPM">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIMLPM/.github/main/radar/badge-dark.png" />
       <img alt="Paul Save's Unlock Radar badge: GitHub-served contributions and commits per active day, private included" src="https://raw.githubusercontent.com/AIMLPM/.github/main/radar/badge-light.png" width="720" />
