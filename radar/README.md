@@ -4,7 +4,7 @@ The badge is generated from GitHub's own records, not typed in, and it is read f
 
 **Contributions per active day, GitHub calendar.** GitHub's contribution calendar for the trailing 365 days, private repositories included via the "include private contributions" setting, divided by the number of days with any activity. The same totals are visible on the public profile.
 
-**Public commits per active day.** Commits GitHub attributes to this account on its public repositories, divided by active days. It is a floor: most of this account's work is in private repositories, which the API does not expose to anyone, so the figure carries a ≥.
+**Commits per active day, private included.** Public commits plus the private contribution count GitHub reports for any profile that shares it, divided by active days. GitHub gives no type breakdown inside private work, so the private part counts every contribution type together; for agent-driven work commits dominate. The smaller figure beside it is public commits alone, a floor, because the API exposes nobody's private repositories.
 
 **Peak day.** The raw calendar maximum for the year.
 
