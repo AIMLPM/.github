@@ -2,7 +2,7 @@
   <a href="https://velocity.id8.one/AIMLPM">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIMLPM/.github/main/radar/badge-dark.png" />
-      <img alt="Paul Save's Unlock Radar badge: GitHub calendar contributions per active day and public commits per active day" src="https://raw.githubusercontent.com/AIMLPM/.github/main/radar/badge-light.png" width="720" />
+      <img alt="Paul Save's Velocity Graph: GitHub calendar contributions per active day and commits per active day" src="https://raw.githubusercontent.com/AIMLPM/.github/main/radar/badge-light.png" width="720" />
     </picture>
   </a>
 </div>

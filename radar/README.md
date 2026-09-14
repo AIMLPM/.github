@@ -1,6 +1,6 @@
-# What the badge on this profile means
+# What the graph on this profile means
 
-The badge is generated from GitHub's own records, not typed in. This account is read the way [Unlock Radar](https://velocity.id8.one) reads any public GitHub profile, plus one thing only the owner can add: his own repositories, private ones included, read from GitHub's copy with his own access.
+The graph is generated from GitHub's own records, not typed in. This account is read the way [Unlock Radar](https://velocity.id8.one) reads any public GitHub profile, plus one thing only the owner can add: his own repositories, private ones included, read from GitHub's copy with his own access.
 
 **Contributions per active day, GitHub calendar.** GitHub's contribution calendar for the trailing 365 days, private repositories included via the "include private contributions" setting, divided by the number of days with any activity. The same totals are visible on the public profile.
 
