@@ -1,0 +1,12 @@
+name: Velocity Radar count
+on: workflow_dispatch
+permissions:
+  contents: read
+  id-token: write
+jobs:
+  count:
+    uses: AIMLPM/velocity-radar-count/.github/workflows/count.yml@1283b9a0fc9cc292eb6c37bd9a60807be8dc3e27 # v6
+    with:
+      timezone: America/Vancouver
+    secrets:
+      VELOCITY_RADAR_TOKEN: ${{ secrets.VELOCITY_RADAR_TOKEN }}
