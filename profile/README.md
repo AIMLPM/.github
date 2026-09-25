@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://velocity.id8.one/stats/AIMLPM">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://velocity.id8.one/stats/AIMLPM/graph-dark.png" />
-      <img alt="AIMLPM's Velocity Graph" src="https://velocity.id8.one/stats/AIMLPM/graph-light.png" width="720" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://velocity.id8.one/stats/AIMLPM/graph-arcade-dark.png" />
+      <img alt="AIMLPM's Velocity Graph" src="https://velocity.id8.one/stats/AIMLPM/graph-arcade-light.png" width="720" />
     </picture>
   </a>
 </div>
